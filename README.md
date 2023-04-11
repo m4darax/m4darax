@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un entusiasta de la tecnología con un fuerte interés en la programación. Actualmente, estoy enfocado en ampliar mis conocimientos y habilidades en el desarrollo de software a través de prácticas y proyectos personales. Busco una oportunidad para continuar mi crecimiento profesional y trabajar en un equipo colaborativo y dinámico.<br>
+I am a technology enthusiast with a strong interest in programming. Currently, I am focused on expanding my knowledge and skills in software development through internships and personal projects. I am looking for an opportunity to continue my professional growth and work in a collaborative and dynamic team.<br>
 
 
 ## 🌐 Socials:
